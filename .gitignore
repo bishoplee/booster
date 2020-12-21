@@ -43,6 +43,8 @@ buck-out/
 
 #VSCode
 .prettierrc.js
+.VSCode
+.vscode
 
 # fastlane
 #
